@@ -1,0 +1,15 @@
+import turtle
+
+turtle.showturtle()
+turtle.write("高清")
+turtle.forward(300)
+turtle.color("green")
+turtle.left(90)
+turtle.forward(300)
+turtle.penup()
+turtle.goto(300.0)
+turtle.pendown()
+turtle.goto(150,150)
+turtle.goto(0,300)
+turtle.pendown()
+turtle.circle(100)
